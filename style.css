@@ -844,7 +844,7 @@ footer p {
     color: white;
     background: #1a1a1a;
     border: 2px solid #28A428;
-    box-shadow: 0 0 20px rgba(183, 75, 75, 0.5);
+    box-shadow: 0 0 20px rgba(75, 183, 109, 0.5);
     z-index: 9999;
     opacity: 1;
     transform: translateY(0);
@@ -853,12 +853,12 @@ footer p {
 
 .custom-alert.success {
     border-color: #28A428;
-    box-shadow: 0 0 20px rgba(183, 75, 75, 0.5);
+    box-shadow: 0 0 20px rgba(75, 183, 109, 0.5);
 }
 
 .custom-alert.error {
     border-color: #28A428;
-    box-shadow: 0 0 20px rgba(183, 75, 75, 0.5);
+    box-shadow: 0 0 20px rgba(75, 183, 109, 0.5);
 }
 
 .custom-alert.hide {
