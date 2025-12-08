@@ -11,7 +11,7 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     />
     <link rel="stylesheet" href="style.css" />
-    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="icon" type="image/png" href="assets/favicon.png" />
     <title>Rıdvan Karasubaşı - Computer Engineer</title>
   </head>
 
@@ -65,14 +65,12 @@
           <a
             href="assets/cv_portfolio/ridvan_karasubasi_english_cv.pdf"
             class="btn"
-            target="_blank"
             download
             >Download CV</a
           >
           <a
             href="assets/cv_portfolio/ridvan_karasubasi_english_portfolio.pdf"
             class="btn"
-            target="_blank"
             download
             >Download Portfolio</a
           >
@@ -99,7 +97,7 @@
 
         <div class="education-card">
           <div class="edu-logo">
-            <img src="assets/logo_images/ibu_logo.png" alt="High School Logo" />
+            <img src="assets/logo_images/ibu_logo.png" alt="University Logo" />
           </div>
           <div class="edu-content">
             <h3>International Balkan University (Erasmus)</h3>
@@ -422,7 +420,10 @@
           <div class="info-card">
             <i class="fa-solid fa-envelope"></i>
             <h3>Email</h3>
-            <p id="email_text">karasubasiridvan@gmail.com</p>
+            <div class="email-container">
+              <p id="email_text">karasubasiridvan@gmail.com</p>
+              <i class="fa-regular fa-copy copy-icon" onclick="copyEmail()"></i>
+            </div>
           </div>
           <div class="info-card">
             <i class="fa-solid fa-location-dot"></i>
@@ -448,7 +449,7 @@
             />
             <textarea
               name="message"
-              rows="6"
+              rows="7"
               placeholder="Your Message"
               required
             ></textarea>
@@ -608,7 +609,7 @@
         }
       });
 
-      // ----- MOBILE MENU -----
+      // ----- HAMBURGER MENU -----
       const menuBtn = document.querySelector(".menu-btn");
       const nav = document.querySelector("header nav");
 
@@ -623,12 +624,25 @@
       });
 
       document.addEventListener("click", (e) => {
-        // Eğer tıklama menü veya hamburger dışında ise
         if (!nav.contains(e.target) && !menuBtn.contains(e.target)) {
           nav.classList.remove("active");
           document.body.classList.remove("nav-open");
         }
       });
+      //----- E-MAIL COPY -----
+      function copyEmail() {
+        const emailText = document.getElementById("email_text").textContent;
+
+        navigator.clipboard
+          .writeText(emailText)
+          .then(() => {
+            showCustomAlert("Email copied to clipboard!", "success");
+          })
+          .catch((err) => {
+            showCustomAlert("Failed to copy email!", "error");
+            console.error("Copy failed:", err);
+          });
+      }
     </script>
 
     <!-- FOOTER -->
