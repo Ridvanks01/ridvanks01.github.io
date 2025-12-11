@@ -1,0 +1,153 @@
+{
+  "title": "Rıdvan Karasubaşı - Informatiker",
+  "nav": {
+    "home": "Startseite",
+    "education": "Bildung",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "greeting": "Hallo, ich bin Rıdvan",
+    "typing": "Ich bin Informatiker",
+    "typingTexts": {
+      "text1": "Informatiker",
+      "text2": "Problemlöser",
+      "text3": "Nachtcoder",
+      "text4": "Stack Overflow Entdecker"
+    },
+    "description": "Hallo, ich bin Rıdvan Karasubaşı. Ich habe mein Informatikstudium 2025 abgeschlossen. Als Entwickler mit starken analytischen Denkfähigkeiten, Lernbereitschaft und einer kollaborativen Denkweise strebe ich danach, wirkungsvolle Projekte im Bereich der Software zu erstellen. Durch kontinuierliche Verbesserung meiner technischen Fähigkeiten bemühe ich mich, innovative und nachhaltige Beiträge zu den Projekten zu leisten, an denen ich in Zukunft beteiligt sein werde.",
+    "hire": "Kontaktieren Sie mich",
+    "downloadCV": "Lebenslauf herunterladen",
+    "downloadPortfolio": "Portfolio herunterladen"
+  },
+  "section": {
+    "education": "Bildung",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "education": {
+    "gpa": "Durchschnitt: 3.07 / 4.00",
+    "rteu": {
+      "name": "Recep Tayyip Erdoğan Universität",
+      "degree": "Bachelorabschluss in Informatik"
+    },
+    "ibu": {
+      "name": "Internationale Balkan-Universität (Erasmus)",
+      "degree": "Bachelorabschluss in Informatik"
+    }
+  },
+  "experience": {
+    "jib": {
+      "title": "Qualitätssicherungstester / Freelancer",
+      "company": "JIB Games",
+      "period": "Dez 2022 - Feb 2023",
+      "description": "Ich habe drei Monate lang als freiberuflicher QA-Tester gearbeitet. Ich habe Testszenarien erstellt und die mir zugewiesenen Testfälle ausgeführt und die Ergebnisse detailliert dokumentiert."
+    },
+    "kamix": {
+      "title": "Softwareentwickler / Mitbegründer",
+      "company": "KamiX",
+      "period": "Nov 2022 - Aug 2024",
+      "description": "Zusammen mit meinen Teammitgliedern habe ich mit unserem Projekt \"Fahrerüberwachungssystem\" in der Kategorie Intelligenter Verkehr am TEKNOFEST-Wettbewerb teilgenommen. In diesem Projekt war ich für die Bildverarbeitungskomponente verantwortlich. Wir haben erfolgreich das Finale erreicht. Außerdem haben wir mit meinen Teammitgliedern unser \"Operatives UAV\"-Projekt abgeschlossen, wobei ich am autonomen Teil dieses Projekts gearbeitet habe. Mit diesem Projekt haben wir einen Geldpreis vom Minister für Industrie und Technologie im Unternehmensgründungswettbewerb gewonnen."
+    },
+    "oua": {
+      "title": "Trainee",
+      "company": "Google Spiele- und Anwendungsakademie",
+      "period": "Nov 2023 - Aug 2024",
+      "description": "Als einer von 2000 Studenten, die aus der ganzen Türkei ausgewählt wurden, hatte ich Anspruch auf eine Ausbildung und habe diese auch 10 Monate lang absolviert."
+    },
+    "turasas": {
+      "title": "Softwareentwickler / Praktikant",
+      "company": "Türasaş",
+      "period": "Jul 2024 - Aug 2024",
+      "description": "Ich habe mein 30-tägiges obligatorisches Sommersemesterpraktikum bei TÜRASAŞ absolviert. Ich habe mich auf Computernetzwerke und Arduino konzentriert."
+    },
+    "tubitak": {
+      "title": "Softwareentwickler / Tübitak-1001 Stipendiat",
+      "company": "Tübitak",
+      "period": "Okt 2024 - Jun 2025",
+      "description": "Ich habe an der Datenerfassung und Webentwicklung für ein KI-gestütztes Projekt zur Früherkennung von Präeklampsie gearbeitet."
+    },
+    "ssb": {
+      "title": "Abschlussarbeit-Stipendiat/Forscher",
+      "company": "SSB - Präsidium der Verteidigungsindustrie",
+      "period": "Okt 2024 - Jun 2025",
+      "description": "Ich wurde in das SAYZEK Akademische Thesenprogramm (ATP) 2024-2025 aufgenommen, das vom Verteidigungsindustrie-Künstliche-Intelligenz-Talente-Cluster (SAYZEK) in Koordination mit dem Präsidium der Verteidigungsindustrie (SSB) und dem Rat für Hochschulbildung (YÖK) durchgeführt wird, und ich habe meine Abschlussarbeit mit diesem Programm geschrieben. In meinem Abschlussprojekt habe ich eine KI-integrierte mobile Anwendung erstellt, die offline Erste-Hilfe-Empfehlungen für Soldaten bietet, die in Kampfsituationen verletzt wurden."
+    },
+    "cerebrum": {
+      "title": "Softwareentwickler / Praktikant",
+      "company": "Cerebrum Tech",
+      "period": "Jul 2025 - Sep 2025",
+      "description": "Ich habe mein 30-tägiges obligatorisches Sommersemesterpraktikum bei Cerebrum Tech absolviert. Ich habe mich auf die Entwicklung mobiler Anwendungen konzentriert."
+    }
+  },
+  "projects": {
+    "tech": "Technologien:",
+    "lostrustykey": {
+      "title": "Lost Rusty Key",
+      "desc": "Lost Rusty Key ist ein Fluchtspiel, bei dem Spieler nach einem zufällig platzierten rostigen Schlüssel suchen, um den Ausgang zu öffnen, wobei es Erkundung und leichte Spannung für eine kurze, wiederholbare Erfahrung kombiniert.",
+      "descLong": "Ich habe ein Fluchtspiel namens Lost Rusty Key entwickelt. Im Spiel sucht der Spieler nach einem rostigen Schlüssel, der in einem der Räume versteckt ist, öffnet den Ausgang und versucht zu entkommen. Jedes Mal, wenn das Spiel startet, erscheint der rostige Schlüssel zufällig in einem von acht verschiedenen Räumen, bietet bei jedem Durchgang eine andere Erfahrung und erhöht die Wiederspielbarkeit. Lost Rusty Key kombiniert Erkundung und leichte Spannung, um dem Spieler eine kurze, aber aufregende Erfahrung zu bieten."
+    },
+    "bookcollector": {
+      "title": "Book Collector",
+      "desc": "Book Collector ist ein schnelles Arcade-Spiel, bei dem Spieler eine Figur bewegen, um fallende Bücher zu fangen, mit dem Ziel, in einer Minute die höchste Punktzahl zu erreichen, und dabei einfaches, aber sehr wiederholbares Gameplay bietet.",
+      "descLong": "Ich habe ein Spiel namens Book Collector entwickelt. In diesem Spiel steuert der Spieler eine Figur am unteren Bildschirmrand, bewegt sich nach links und rechts und fängt von oben fallende Bücher. Das Hauptziel des Spiels ist es, innerhalb einer Minute so viele Bücher wie möglich zu sammeln und die höchste Punktzahl zu erreichen. Mit seinen einfachen Mechaniken und dem schnellen Tempo bietet Book Collector den Spielern ein unterhaltsames und wettbewerbsfähiges Arcade-Erlebnis. Es motiviert die Spieler, bei jedem Versuch ihre eigenen Höchstwerte zu übertreffen und bietet eine hohe Wiederspielbarkeit."
+    },
+    "graduation": {
+      "title": "Abschlussprojekt",
+      "desc": "Eine mobile App, die Soldaten offline Erste-Hilfe-Anleitungen bietet, indem sie Verletzungsfotos mit KI analysiert und Behandlungsvorschläge basierend auf verfügbaren medizinischen Vorräten macht, mit dem Ziel, Verluste zu reduzieren.",
+      "descLong": "Ich habe eine mobile Anwendung entwickelt, die Soldaten, die im Kampf verletzt wurden, Erste-Hilfe-Empfehlungen bietet und offline und direkt auf dem Gerät ohne Internetverbindung funktioniert. Mit dieser Anwendung identifiziert das von mir trainierte KI-Modell, wenn Soldaten ein Foto des verletzten Bereichs hochladen, die Art der Wunde und bietet angemessene Erste-Hilfe-Vorschläge basierend auf den verfügbaren medizinischen Vorräten. Durch dieses Projekt wollte ich dazu beitragen, zumindest teilweise die Anzahl der Soldatenverluste zu reduzieren."
+    },
+    "tubitak": {
+      "title": "Tübitak-1001 Projekt",
+      "desc": "Ich habe die klinische Datenerfassung durchgeführt und eine benutzerfreundliche Webplattform entwickelt und Erfahrung in Datenbereinigung, KI-Datenvorbereitung und Full-Stack-Webanwendungsentwicklung gesammelt.",
+      "descLong": "Ich habe die Aufgaben der Datenerfassung und Webplattformentwicklung übernommen. Durch die Arbeit mit echten klinischen Daten habe ich Erfahrung in Datenanalyse, Datenbereinigung und Datenvorbereitung für KI-Modelle gesammelt. Durch die Entwicklung einer benutzerfreundlichen Website habe ich die Struktur einer Webanwendung und die Integration von Frontend und Backend gelernt. Ich habe auch praktische Erfahrung mit der Datenverarbeitung in KI-Projekten und der Entwicklung voll funktionsfähiger Webanwendungen gesammelt."
+    },
+    "uav": {
+      "title": "Operatives UAV",
+      "desc": "Entwicklung eines autonomen Nachschub-Drohnensystems, das Erste-Hilfe-Material und Munition basierend auf digitalen Anfragen von Soldaten liefert. Dies erhöht die Sicherheit, steigert die operative Effizienz und reduziert Zeit und Kosten.",
+      "descLong": "Ich habe an einem Projekt gearbeitet, das darauf abzielt, eine autonome Nachschub-Drohne zu entwickeln, um die Erste-Hilfe- und Munitionsbedürfnisse von Soldaten auf dem Schlachtfeld schneller, sicherer und effizienter zu erfüllen. In diesem Rahmen war das Ziel, dass Soldaten digital die Art der benötigten Vorräte über ein von meinem Team entwickeltes Armband angeben und die Drohne diese Information erhält, das entsprechende Versorgungspaket auswählt und es über autonome Routenplanung liefert. Mein Ziel im Projekt war es, die operative Kontinuität zu unterstützen, die Personalsicherheit zu verbessern, indem der Bedarf an manuellem Nachschub in Hochrisikogebieten reduziert wird, und Einsparungen sowohl in Zeit als auch in Kosten zu erzielen. Wir haben für dieses Projekt einen Geldpreis vom Minister für Industrie und Technologie erhalten."
+    },
+    "driver": {
+      "title": "Fahrerüberwachungssystem",
+      "desc": "Entwicklung eines integrierten Systems mit Gesichtserkennung und KI zur Überprüfung der Tachographen-Eigentümerschaft und zur Echtzeitüberwachung der Fahreraufmerksamkeit, mit dem Ziel, Missbrauch zu verhindern und die Verkehrssicherheit zu verbessern.",
+      "descLong": "Im Verkehrssektor führte die Fortsetzung des Fahrens mit Tachographen-Geräten anderer nach Ablauf der eigenen Gerätedauer sowohl zu Rechtsverstößen als auch zu einem erhöhten Risiko von müdigkeitsbedingten Unfällen. Um dieses Problem anzugehen, habe ich an einem integrierten System gearbeitet, das eine tachographenbasierte Gesichtserkennungsverifizierung und eine Echtzeitüberwachung von Schlaf-Wach-Zuständen durchführt. Wenn ein Fahrer sein Tachographen-Gerät in das System scannte, plante ich, dass die Fahrzeugkamera das Gesicht des Fahrers analysiert und überprüft, ob es mit dem tatsächlichen Eigentümer des Geräts übereinstimmt. Nach der Verifizierung sollte das System die Aufmerksamkeit des Fahrers während der Fahrt in Echtzeit mit KI-gestützten Bildverarbeitungstechniken überwachen und eine hörbare Warnung ausgeben, wenn Schläfrigkeit oder Unaufmerksamkeit erkannt wird. Mit diesem Projekt wollte ich sowohl den Missbrauch von Tachographen verhindern als auch die Fahrersicherheit verbessern."
+    },
+    "teapp": {
+      "title": "TÜRASAŞ Tee-App",
+      "desc": "Entwicklung einer Cafeteria-Bestell-App, die es Mitarbeitern ermöglicht, direkt Bestellungen aufzugeben und sie auf dem Cafeteria-Bildschirm anzuzeigen, um die Arbeitsbelastung des Personals zu reduzieren und Zeit zu sparen.",
+      "descLong": "Zuvor mussten Mitarbeiter im Unternehmen, in dem ich mein Praktikum absolvierte, das Personal in der Cafeteria anrufen, um Essen oder Getränke zu bestellen. Um diese Situation zu verbessern, habe ich eine App entwickelt, die es Mitarbeitern ermöglichte, direkt Bestellungen aufzugeben, ohne sich an Personalmitglieder zu wenden. Die App zeigte die Bestellung jedes Mitarbeiters auf dem Cafeteria-Bildschirm an, sodass das Personal die Bestellungen entsprechend vorbereiten und liefern konnte. Dieses Projekt sparte Zeit und reduzierte die Arbeitsbelastung des Cafeteria-Personals erheblich."
+    },
+    "heroicity": {
+      "title": "HeroiCity",
+      "desc": "Mein Teamkollege und ich haben innerhalb von 24 Stunden ein unterhaltsames Spiel für den Game Jam-Wettbewerb der Google Game and Application Academy entwickelt.",
+      "descLong": "Mein Teamkollege und ich haben im Rahmen des Game Jams der Google Game and Application Academy innerhalb von 24 Stunden das Spiel HeroiCity entwickelt. Das Spiel beinhaltet verschiedene Rätsel und Aufgaben, die die Spieler lösen müssen. Ziel ist es, diese Aufgaben erfolgreich zu bewältigen, um das Spiel abzuschließen."
+    },
+    "cerebrum": {
+      "title": "Cerebrum Tech Praktikumsprojekt",
+      "desc": "Entwicklung einer KI-Chat-App, die Spracheingaben in Text umwandelt, mit ChatGPT interagiert und Antworten sowohl als Text als auch als Audio für eine natürliche, interaktive Erfahrung bietet.",
+      "descLong": "Ich habe während meines Praktikums eine KI-Chat-Anwendung entwickelt. Die Anwendung wandelt Spracheingaben des Benutzers in Text um und interagiert mit ChatGPT. Sie präsentiert die Antworten von ChatGPT dem Benutzer sowohl als Text als auch als Audio und schafft so eine natürliche Kommunikationserfahrung. In diesem Projekt habe ich Spracherkennung, Textverarbeitung und KI-Integration kombiniert, um eine benutzerfreundliche und interaktive Anwendung zu gestalten."
+    }
+  },
+  "contact": {
+    "email": "E-Mail",
+    "location": "Standort",
+    "locationValue": "Sivas, Türkiye",
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht Senden"
+    }
+  },
+  "footer": {
+    "text": "© 2025 Rıdvan Karasubaşı. Alle Rechte vorbehalten."
+  },
+  "alerts": {
+    "emailCopied": "E-Mail in die Zwischenablage kopiert!",
+    "emailCopyFailed": "E-Mail konnte nicht kopiert werden!",
+    "messageSent": "Nachricht erfolgreich gesendet!",
+    "messageFailed": "Ein Fehler ist aufgetreten. Bitte versuche es erneut."
+  }
+}

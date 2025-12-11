@@ -1,0 +1,153 @@
+{
+  "title": "Rıdvan Karasubaşı - Computer Engineer",
+  "nav": {
+    "home": "Home",
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "greeting": "Hi, It's Rıdvan",
+    "typing": "I'm a Computer Engineer",
+    "typingTexts": {
+      "text1": "Computer Engineer",
+      "text2": "Problem Solver",
+      "text3": "Late-night Coder",
+      "text4": "Stack Overflow Explorer"
+    },
+    "description": "Hello, I'm Rıdvan Karasubaşı. I completed my Computer Engineering education in 2025. As a developer with strong analytical thinking skills, a willingness to learn, and a collaborative mindset, I aim to create impactful projects in the field of software. By continuously improving my technical skills, I strive to provide innovative and sustainable contributions to the projects I will be involved in in the future.",
+    "hire": "Contact me",
+    "downloadCV": "Download CV",
+    "downloadPortfolio": "Download Portfolio"
+  },
+  "section": {
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "education": {
+    "gpa": "GPA: 3.07 / 4.00",
+    "rteu": {
+      "name": "Recep Tayyip Erdoğan University",
+      "degree": "Bachelor of Science (B.Sc.) in Computer Engineering"
+    },
+    "ibu": {
+      "name": "International Balkan University (Erasmus)",
+      "degree": "Bachelor of Science (B.Sc.) in Computer Engineering"
+    }
+  },
+  "experience": {
+    "jib": {
+      "title": "Quality Assurance Tester / Freelance",
+      "company": "JIB Games",
+      "period": "Dec 2022 - Feb 2023",
+      "description": "I worked as a freelance QA Tester for three months. I created test scenarios and executed the test cases assigned to me, reporting the results in detail."
+    },
+    "kamix": {
+      "title": "Software Developer / Co-Founder",
+      "company": "KamiX",
+      "period": "Nov 2022 - Aug 2024",
+      "description": "Together with my teammates, I competed in the Smart Transportation category of the TEKNOFEST competition with our project titled \"Driver Monitoring System.\" In this project, I was responsible for the image processing component. We successfully advanced to the final stage. And also again with my teammates and I completed our \"Operational UAV\" project. I worked on the autonomous portion of this project. With this project, we won a cash prize from the Minister of Industry and Technology in the entrepreneurship competition."
+    },
+    "oua": {
+      "title": "Trainee",
+      "company": "Google Game and Application Academy",
+      "period": "Nov 2023 - Aug 2024",
+      "description": "As one of the 2000 students selected from across Türkiye, I was entitled to receive training and received training for 10 months."
+    },
+    "turasas": {
+      "title": "Software Developer / Intern",
+      "company": "Türasaş",
+      "period": "Jul 2024 - Aug 2024",
+      "description": "I completed my 30-day mandatory summer internship at TÜRASAŞ. I focused on computer networks and arduino."
+    },
+    "tubitak": {
+      "title": "Software Developer / Tübitak-1001 Scholar",
+      "company": "Tübitak",
+      "period": "Oct 2024 - Jun 2025",
+      "description": "I worked on data collection and web development for an AI-powered project aimed at the early detection of preeclampsia."
+    },
+    "ssb": {
+      "title": "Thesis Researcher",
+      "company": "SSB - Secretariat of Defense Industries",
+      "period": "Oct 2024 - Jun 2025",
+      "description": "I was accepted to the SAYZEK Academic Thesis Program (ATP) 2024-2025, which is carried out by the Defense Industry Artificial Intelligence Talent Cluster (SAYZEK) in coordination with the Presidency of Defense Industries (SSB) and the Council of Higher Education (YÖK), and I wrote my graduation thesis with this program. In my graduation project, I created an artificial intelligence-integrated mobile application that provides offline first aid recommendations to soldiers injured in combat situations."
+    },
+    "cerebrum": {
+      "title": "Software Developer / Intern",
+      "company": "Cerebrum Tech",
+      "period": "July 2025 - Sep 2025",
+      "description": "I completed my 30-day mandatory summer internship at Cerebrum Tech. I focused on mobile application development."
+    }
+  },
+  "projects": {
+    "tech": "Technologies:",
+    "lostrustykey": {
+      "title": "Lost Rusty Key",
+      "desc": "Lost Rusty Key is an escape-themed game where players search for a randomly placed rusty key to unlock the exit, combining exploration and light suspense for a short, replayable experience.",
+      "descLong": "I developed an escape-themed game called Lost Rusty Key. In the game, the player searches for a rusty key hidden in one of the rooms, unlocks the exit, and attempts to escape. Each time the game starts, the rusty key spawns randomly in one of eight different rooms, offering a different experience each playthrough and increasing replayability. Lost Rusty Key combines exploration and light suspense to deliver a short yet exciting experience for the player."
+    },
+    "bookcollector": {
+      "title": "Book Collector",
+      "desc": "Book Collector is a fast-paced arcade game where players move a character to catch falling books, aiming for the highest score in one minute, offering simple yet highly replayable gameplay.",
+      "descLong": "I developed a game called Book Collector. In this game, the player controls a character at the bottom of the screen, moves left and right, and catches books falling from above. The main objective of the game is to collect as many books as possible within one minute and achieve the highest score. With its simple mechanics and fast-paced structure, Book Collector offers players a fun and competitive arcade experience. It motivates players to beat their own high scores with each attempt, providing high replayability."
+    },
+    "graduation": {
+      "title": "Graduation Project",
+      "desc": "A mobile app that provides offline first aid guidance for soldiers by analyzing injury photos with AI and suggesting treatment based on available medical supplies, aiming to reduce casualties.",
+      "descLong": "I developed a mobile application that provides first aid recommendations to soldiers injured in combat, functioning offline and directly on the device without an internet connection. With this application, when soldiers upload a photo of the injured area, the AI model I trained identifies the type of wound and provides appropriate first aid suggestions based on the available medical supplies. Through this project, I aimed to help reduce, at least partially, the number of soldier casualties."
+    },
+    "tubitak": {
+      "title": "Tübitak-1001 Project",
+      "desc": "Handled clinical data collection and developed a user-friendly web platform, gaining experience in data cleaning, AI data preparation, and full-stack web application development.",
+      "descLong": "I took on data collection and web platform development duties. Working with real clinical data, I gained experience in data analysis, data cleaning, and data preparation for AI models. By developing a user-friendly website, I learned the structure of a web application and how to integrate front-end and back-end. I also gained hands-on experience with data processing in AI projects and the development of fully functional web applications."
+    },
+    "uav": {
+      "title": "Operational UAV",
+      "desc": "Developed an autonomous resupply drone system that delivers first aid and ammunition based on soldiers' digital requests, enhancing safety, operational efficiency, and reducing time and costs.",
+      "descLong": "I worked on a project aimed at developing an autonomous resupply drone to meet soldiers' first aid and ammunition needs on the battlefield more quickly, safely, and efficiently. Within this scope, the goal was for soldiers to digitally indicate the type of supplies they needed through a wristband designed by my team, and for the drone to receive this information, select the appropriate supply package, and deliver it via autonomous route planning. My objective in the project was to support operational continuity, enhance personnel safety by reducing the need for manual resupply in high-risk areas, and achieve savings in both time and cost. We received a cash prize from the Minister of Industry and Technology for this project."
+    },
+    "driver": {
+      "title": "Driver Monitoring System",
+      "desc": "Developed an integrated system using face recognition and AI to verify tachograph ownership and monitor driver alertness in real time, aiming to prevent misuse and enhance road safety.",
+      "descLong": "In the transportation sector, drivers continuing to drive using tachograph devices belonging to others after their own device's duration had expired caused both legal violations and an increased risk of fatigue-related accidents. To address this issue, I worked on an integrated system that performs face recognition-based tachograph verification and real-time sleep–wakefulness monitoring. When a driver scanned their tachograph device into the system, I planned for the in-vehicle camera to analyze the driver's face and check whether it matched the device's actual owner. After verification, the system was intended to monitor the driver's alertness in real time during driving using AI-supported image processing techniques, and issue an audible warning if drowsiness or inattention was detected. With this project, I aimed both to prevent tachograph misuse and to enhance driver safety."
+    },
+    "teapp": {
+      "title": "TÜRASAŞ TeaApp",
+      "desc": "Developed a cafeteria ordering app that lets employees place orders directly, displaying them on the cafeteria screen to reduce staff workload and save time.",
+      "descLong": "Previously employees had to call staff at the cafeteria to order food or drinks at the company where I did my internship. To improve this situation, I developed an app that allowed employees to place orders directly without contacting any staff members. The app displayed each employee's order on the cafeteria screen, allowing staff to prepare and deliver orders accordingly. This project both saved time and significantly reduced the cafeteria staff's workload."
+    },
+    "heroicity": {
+      "title": "HeroiCity",
+      "desc": "My teammate and I designed a fun game within 24 hours for the Game Jam competition organized by the Google Game and Application Academy.",
+      "descLong": "My teammate and I developed a game called HeroiCity within 24 hours during the game jam event organized by the Google Game and Application Academy. The game includes various puzzles and tasks that players must complete. The player’s goal is to successfully complete these tasks in order to finish the game."
+    },
+    "cerebrum": {
+      "title": "Cerebrum Tech Internship Project",
+      "desc": "Developed an AI chat app that converts voice input to text, interacts with ChatGPT, and provides responses as both text and audio for a natural, interactive experience.",
+      "descLong": "I developed an AI chat application during my internship. The application converts voice input from the user into text and interacts with ChatGPT. It presents ChatGPT's responses to the user both as text and audio, creating a natural communication experience. In this project, I combined speech recognition, text processing, and AI integration to design a user-friendly and interactive application."
+    }
+  },
+  "contact": {
+    "email": "E-mail",
+    "location": "Location",
+    "locationValue": "Sivas, Türkiye",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "text": "© 2025 Rıdvan Karasubaşı. All rights reserved."
+  },
+  "alerts": {
+    "emailCopied": "Email copied to clipboard!",
+    "emailCopyFailed": "Failed to copy email!",
+    "messageSent": "Message sent successfully!",
+    "messageFailed": "Oops! Something went wrong. Please try again."
+  }
+}
