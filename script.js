@@ -13,61 +13,53 @@
 })();
 
 // ----- NAVBAR ACTIVE LINK -----
-const navLinks = document.querySelectorAll("nav a");
-const sections = document.querySelectorAll("section");
-const logo = document.querySelector(".logo");
+const navLinks = document.querySelectorAll('nav a');
+const sections = document.querySelectorAll('section');
+const logo = document.querySelector('.logo');
 
 if (logo) {
-  logo.addEventListener("click", () => {
-    navLinks.forEach((nav) => nav.classList.remove("active"));
-    navLinks[0].classList.add("active");
-  });
+    logo.addEventListener('click', () => {
+        navLinks.forEach(nav => nav.classList.remove('active'));
+        navLinks[0].classList.add('active');
+    });
 }
 
-// Flag to prevent scroll event from overriding manual clicks
-let isScrolling = false;
-
-navLinks.forEach((link) => {
-  link.addEventListener("click", function (e) {
-    const href = this.getAttribute("href");
-    if (href.startsWith("#")) {
-      isScrolling = true;
-      navLinks.forEach((nav) => nav.classList.remove("active"));
-      this.classList.add("active");
-      
-      // Wait for smooth scroll to complete before allowing scroll event to update
-      setTimeout(() => {
-        isScrolling = false;
-        // Update active state after scroll completes
-        updateActiveNav();
-      }, 1000); // Adjust timing based on your scroll speed
-    }
-  });
+navLinks.forEach(link => {
+    link.addEventListener('click', function () {
+        navLinks.forEach(nav => nav.classList.remove('active'));
+        this.classList.add('active');
+    });
 });
 
-function updateActiveNav() {
-  let current = "";
-  sections.forEach((section) => {
-    const sectionTop = section.offsetTop - 140;
-    const sectionHeight = section.offsetHeight;
-    if (pageYOffset >= sectionTop && pageYOffset < sectionTop + sectionHeight) {
-      current = section.getAttribute("id");
+window.addEventListener('scroll', () => {
+    let current = '';
+    const scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+    const windowHeight = window.innerHeight;
+    const documentHeight = document.documentElement.scrollHeight;
+    
+    // Check if we're at the absolute bottom of the page
+    const isAtBottom = Math.ceil(scrollPosition + windowHeight) >= documentHeight;
+    
+    // If at bottom, set contact as active
+    if (isAtBottom) {
+        current = 'contact';
+    } else {
+        // Otherwise, use the normal section detection
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop - 140;
+            const sectionHeight = section.offsetHeight;
+            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+                current = section.getAttribute('id');
+            }
+        });
     }
-  });
 
-  navLinks.forEach((link) => {
-    link.classList.remove("active");
-    if (link.getAttribute("href") === "#" + current) {
-      link.classList.add("active");
-    }
-  });
-}
-
-window.addEventListener("scroll", () => {
-  // Don't update if we're in the middle of a programmatic scroll
-  if (!isScrolling) {
-    updateActiveNav();
-  }
+    navLinks.forEach(link => {
+        link.classList.remove('active');
+        if (link.getAttribute('href') === '#' + current) {
+            link.classList.add('active');
+        }
+    });
 });
 
 // ----- CONTACT FORM -----
