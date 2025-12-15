@@ -9,7 +9,6 @@
   },
   "home": {
     "greeting": "Merhaba, Ben Rıdvan",
-    "typing": "Ben bir Bilgisayar Mühendisiyim",
     "typingTexts": {
       "text1": "Bilgisayar Mühendisiyim",
       "text2": "Problem Çözücüyüm",
@@ -59,13 +58,13 @@
     },
     "turasas": {
       "title": "Yazılım Geliştirici / Stajyer",
-      "company": "Türasaş",
+      "company": "TÜRASAŞ",
       "period": "Tem 2024 - Ağu 2024",
       "description": "TÜRASAŞ'ta 30 günlük zorunlu yaz stajımı tamamladım. Bilgisayar ağları ve arduino üzerine odaklandım."
     },
     "tubitak": {
-      "title": "Yazılım Geliştirici / Tübitak-1001 Bursiyeri",
-      "company": "Tübitak",
+      "title": "Yazılım Geliştirici / TÜBİTAK-1001 Bursiyeri",
+      "company": "TÜBİTAK",
       "period": "Eki 2024 - Haz 2025",
       "description": "Preeklampsinin erken tespitine yönelik yapay zekâ destekli bir proje için veri toplama ve web geliştirme üzerinde çalıştım."
     },
@@ -73,7 +72,7 @@
       "title": "Tez Araştırmacısı",
       "company": "SSB - Savunma Sanayii Başkanlığı",
       "period": "Eki 2024 - Haz 2025",
-      "description": "Savunma Sanayii Başkanlığı (SSB) ve Yükseköğretim Kurulu (YÖK) koordinasyonunda Savunma Sanayii Yapay Zeka Yetenek Kümesi (SAYZEK) tarafından yürütülen SAYZEK Akademik Tez Programı (ATP) 2024-2025'e kabul edildim ve mezuniyet tezimi bu programla yazdım. Mezuniyet projemde, savaş durumlarında yaralanan askerlere çevrimdışı ilk yardım önerileri sunan yapay zeka entegreli bir mobil uygulama oluşturdum."
+      "description": "Savunma Sanayii Başkanlığı (SSB) ve Yükseköğretim Kurulu (YÖK) koordinasyonunda Savunma Sanayii Yapay Zeka Yetenek Kümesi (SAYZEK) tarafından yürütülen SAYZEK Akademik Tez Programı (ATP) 2024-2025'e kabul edildim ve bitirme tezimi bu programla yazdım. Bitirme projemde, savaş durumlarında yaralanan askerlere çevrimdışı ilk yardım önerileri sunan yapay zeka entegreli bir mobil uygulama oluşturdum."
     },
     "cerebrum": {
       "title": "Yazılım Geliştirici / Stajyer",
@@ -95,12 +94,12 @@
       "descLong": "Book Collector adında bir oyun geliştirdim. Bu oyunda, oyuncu ekranın altındaki bir karakteri kontrol eder, sola ve sağa hareket eder ve yukarıdan düşen kitapları yakalar. Oyunun temel amacı, bir dakika içinde mümkün olduğunca fazla kitap toplamak ve en yüksek skoru elde etmektir. Basit mekanikleri ve hızlı tempolu yapısıyla Book Collector, oyunculara eğlenceli ve rekabetçi bir arcade deneyimi sunar. Oyuncuları her denemede kendi yüksek skorlarını geçmeye teşvik eder ve yüksek yeniden oynanabilirlik sağlar."
     },
     "graduation": {
-      "title": "Mezuniyet Projesi",
+      "title": "Bitirme Projesi",
       "desc": "Yapay Zekâ ile yaralanma fotoğraflarını analiz ederek ve mevcut tıbbi malzemelere göre tedavi önererek askerlere çevrimdışı ilk yardım rehberliği sağlayan, kayıpları azaltmayı amaçlayan bir mobil uygulama.",
       "descLong": "Savaşta yaralanan askerlere ilk yardım önerileri sunan, çevrimdışı çalışan ve internet bağlantısı olmadan doğrudan cihazda çalışan bir mobil uygulama geliştirdim. Bu uygulama ile askerler yaralı bölgenin fotoğrafını yüklediğinde, eğittiğim Yapay Zekâ modeli yara türünü tanımlar ve mevcut tıbbi malzemelere göre uygun ilk yardım önerileri sunar. Bu proje aracılığıyla, en azından kısmen asker kayıplarının sayısını azaltmaya yardımcı olmayı amaçladım."
     },
     "tubitak": {
-      "title": "Tübitak-1001 Projesi",
+      "title": "TÜBİTAK-1001 Projesi",
       "desc": "Klinik veri toplama işlemlerini yönettim ve kullanıcı dostu bir web platformu geliştirdim, veri temizleme, AI veri hazırlama ve tam yığın web uygulaması geliştirme konularında deneyim kazandım.",
       "descLong": "Veri toplama ve web platform geliştirme görevlerini üstlendim. Gerçek klinik verilerle çalışarak, veri analizi, veri temizleme ve AI modelleri için veri hazırlama konularında deneyim kazandım. Kullanıcı dostu bir web sitesi geliştirerek, bir web uygulamasının yapısını ve front-end ile back-end'i nasıl entegre edeceğimi öğrendim. Ayrıca AI projelerinde veri işleme ve tam işlevsel web uygulamaları geliştirme konularında pratik deneyim kazandım."
     },
@@ -115,9 +114,9 @@
       "descLong": "Ulaştırma sektöründe, sürücülerin kendi cihazlarının süresi dolduktan sonra başkalarına ait takograf cihazlarını kullanarak sürüşe devam etmeleri hem yasal ihlallere hem de yorgunluk kaynaklı kazaların artmasına neden oluyordu. Bu sorunu çözmek için, yüz tanıma tabanlı takograf doğrulama ve gerçek zamanlı uyku-uyanıklık izleme yapan entegre bir sistem üzerinde çalıştım. Bir sürücü takograf cihazını sisteme tarattığında, araç içi kameranın sürücünün yüzünü analiz etmesini ve cihazın gerçek sahibiyle eşleşip eşleşmediğini kontrol etmesini planladım. Doğrulamadan sonra, sistem AI destekli görüntü işleme teknikleri kullanarak sürüş sırasında sürücünün uyanıklığını gerçek zamanlı olarak izleyecek ve uyuşukluk veya dikkatsizlik tespit edilirse sesli bir uyarı verecekti. Bu projeyle hem takograf kötüye kullanımını önlemeyi hem de sürücü güvenliğini artırmayı amaçladım."
     },
     "teapp": {
-      "title": "TÜRASAŞ Çay Uygulaması",
-      "desc": "Çalışanların doğrudan sipariş vermesini sağlayan, personel iş yükünü azaltmak ve zaman tasarrufu sağlamak için siparişleri kafeterya ekranında gösteren bir kafeterya sipariş uygulaması geliştirdim.",
-      "descLong": "Daha önce staj yaptığım şirkette çalışanların yemek veya içecek siparişi vermek için kafeteryadaki personele telefon etmeleri gerekiyordu. Bu durumu iyileştirmek için, çalışanların herhangi bir personel üyesiyle iletişime geçmeden doğrudan sipariş verebilmelerini sağlayan bir uygulama geliştirdim. Uygulama her çalışanın siparişini kafeterya ekranında gösterdi, böylece personel siparişleri hazırlayıp teslim edebildi. Bu proje hem zaman tasarrufu sağladı hem de kafeterya personelinin iş yükünü önemli ölçüde azalttı."
+      "title": "TÜRASAŞ Staj Projesi",
+      "desc": "Çalışanların doğrudan sipariş vermesini sağlayan, personel iş yükünü azaltmak ve zaman tasarrufu sağlamak için siparişleri kantin ekranında göstermeyi hedefleyen bir kantin sipariş uygulaması geliştirdim.",
+      "descLong": "Daha önce staj yaptığım şirkette, çalışanlar içecek siparişi vermek için kantin personelini telefonla aramak zorundaydı. Bu süreci iyileştirmek amacıyla, çalışanların herhangi bir personelle iletişime geçmeden doğrudan sipariş verebilmelerini sağlayan bir uygulama geliştirdim. Uygulama, her çalışanın siparişini kantin ekranında görüntülemeyi ve personelin siparişleri hazırlayıp zaman kaybı yaşamadan teslim etmesini hedefliyordu. Bu proje, hem zaman tasarrufu sağladı hem de kantin personelinin iş yükünü önemli ölçüde azalttı."
     },
     "heroicity": {
       "title": "HeroiCity",

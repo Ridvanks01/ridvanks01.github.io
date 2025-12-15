@@ -9,7 +9,6 @@
   },
   "home": {
     "greeting": "Hi, It's Rıdvan",
-    "typing": "I'm a Computer Engineer",
     "typingTexts": {
       "text1": "Computer Engineer",
       "text2": "Problem Solver",
@@ -17,7 +16,7 @@
       "text4": "Stack Overflow Explorer"
     },
     "description": "Hello, I'm Rıdvan Karasubaşı. I completed my Computer Engineering education in 2025. As a developer with strong analytical thinking skills, a willingness to learn, and a collaborative mindset, I aim to create impactful projects in the field of software. By continuously improving my technical skills, I strive to provide innovative and sustainable contributions to the projects I will be involved in in the future.",
-    "hire": "Contact me",
+    "hire": "Contact Me",
     "downloadCV": "Download CV",
     "downloadPortfolio": "Download Portfolio"
   },
@@ -59,13 +58,13 @@
     },
     "turasas": {
       "title": "Software Developer / Intern",
-      "company": "Türasaş",
+      "company": "TÜRASAŞ",
       "period": "Jul 2024 - Aug 2024",
       "description": "I completed my 30-day mandatory summer internship at TÜRASAŞ. I focused on computer networks and arduino."
     },
     "tubitak": {
-      "title": "Software Developer / Tübitak-1001 Scholar",
-      "company": "Tübitak",
+      "title": "Software Developer / TÜBİTAK-1001 Scholar",
+      "company": "TÜBİTAK",
       "period": "Oct 2024 - Jun 2025",
       "description": "I worked on data collection and web development for an AI-powered project aimed at the early detection of preeclampsia."
     },
@@ -100,7 +99,7 @@
       "descLong": "I developed a mobile application that provides first aid recommendations to soldiers injured in combat, functioning offline and directly on the device without an internet connection. With this application, when soldiers upload a photo of the injured area, the AI model I trained identifies the type of wound and provides appropriate first aid suggestions based on the available medical supplies. Through this project, I aimed to help reduce, at least partially, the number of soldier casualties."
     },
     "tubitak": {
-      "title": "Tübitak-1001 Project",
+      "title": "TÜBİTAK-1001 Project",
       "desc": "Handled clinical data collection and developed a user-friendly web platform, gaining experience in data cleaning, AI data preparation, and full-stack web application development.",
       "descLong": "I took on data collection and web platform development duties. Working with real clinical data, I gained experience in data analysis, data cleaning, and data preparation for AI models. By developing a user-friendly website, I learned the structure of a web application and how to integrate front-end and back-end. I also gained hands-on experience with data processing in AI projects and the development of fully functional web applications."
     },
@@ -115,9 +114,9 @@
       "descLong": "In the transportation sector, drivers continuing to drive using tachograph devices belonging to others after their own device's duration had expired caused both legal violations and an increased risk of fatigue-related accidents. To address this issue, I worked on an integrated system that performs face recognition-based tachograph verification and real-time sleep–wakefulness monitoring. When a driver scanned their tachograph device into the system, I planned for the in-vehicle camera to analyze the driver's face and check whether it matched the device's actual owner. After verification, the system was intended to monitor the driver's alertness in real time during driving using AI-supported image processing techniques, and issue an audible warning if drowsiness or inattention was detected. With this project, I aimed both to prevent tachograph misuse and to enhance driver safety."
     },
     "teapp": {
-      "title": "TÜRASAŞ TeaApp",
-      "desc": "Developed a cafeteria ordering app that lets employees place orders directly, displaying them on the cafeteria screen to reduce staff workload and save time.",
-      "descLong": "Previously employees had to call staff at the cafeteria to order food or drinks at the company where I did my internship. To improve this situation, I developed an app that allowed employees to place orders directly without contacting any staff members. The app displayed each employee's order on the cafeteria screen, allowing staff to prepare and deliver orders accordingly. This project both saved time and significantly reduced the cafeteria staff's workload."
+      "title": "TÜRASAŞ Internship Project",
+      "desc": "I developed a canteen ordering application that allows employees to place orders directly, displaying them on the canteen screen to save time and reduce staff workload.",
+      "descLong": "At the company where I previously interned, employees had to call the canteen staff to place drink orders. To streamline this process, I developed an application that allowed employees to order directly without contacting any staff member. The application displayed each employee’s order on the canteen screen, enabling staff to prepare and deliver orders efficiently. This project not only saved time but also significantly reduced the workload of the canteen staff."
     },
     "heroicity": {
       "title": "HeroiCity",

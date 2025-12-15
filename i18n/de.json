@@ -9,7 +9,6 @@
   },
   "home": {
     "greeting": "Hallo, ich bin Rıdvan",
-    "typing": "Ich bin Informatiker",
     "typingTexts": {
       "text1": "Informatiker",
       "text2": "Problemlöser",
@@ -59,13 +58,13 @@
     },
     "turasas": {
       "title": "Softwareentwickler / Praktikant",
-      "company": "Türasaş",
+      "company": "TÜRASAŞ",
       "period": "Jul 2024 - Aug 2024",
-      "description": "Ich habe mein 30-tägiges obligatorisches Sommersemesterpraktikum bei TÜRASAŞ absolviert. Ich habe mich auf Computernetzwerke und Arduino konzentriert."
+      "description": "Ich habe mein 30-tägiges obligatorisches Sommersemester Praktikum bei TÜRASAŞ absolviert. Ich habe mich auf Computernetzwerke und Arduino konzentriert."
     },
     "tubitak": {
-      "title": "Softwareentwickler / Tübitak-1001 Stipendiat",
-      "company": "Tübitak",
+      "title": "Softwareentwickler / TÜBİTAK-1001 Stipendiat",
+      "company": "TÜBİTAK",
       "period": "Okt 2024 - Jun 2025",
       "description": "Ich habe an der Datenerfassung und Webentwicklung für ein KI-gestütztes Projekt zur Früherkennung von Präeklampsie gearbeitet."
     },
@@ -79,7 +78,7 @@
       "title": "Softwareentwickler / Praktikant",
       "company": "Cerebrum Tech",
       "period": "Jul 2025 - Sep 2025",
-      "description": "Ich habe mein 30-tägiges obligatorisches Sommersemesterpraktikum bei Cerebrum Tech absolviert. Ich habe mich auf die Entwicklung mobiler Anwendungen konzentriert."
+      "description": "Ich habe mein 30-tägiges obligatorisches Sommersemester Praktikum bei Cerebrum Tech absolviert. Ich habe mich auf die Entwicklung mobiler Anwendungen konzentriert."
     }
   },
   "projects": {
@@ -100,7 +99,7 @@
       "descLong": "Ich habe eine mobile Anwendung entwickelt, die Soldaten, die im Kampf verletzt wurden, Erste-Hilfe-Empfehlungen bietet und offline und direkt auf dem Gerät ohne Internetverbindung funktioniert. Mit dieser Anwendung identifiziert das von mir trainierte KI-Modell, wenn Soldaten ein Foto des verletzten Bereichs hochladen, die Art der Wunde und bietet angemessene Erste-Hilfe-Vorschläge basierend auf den verfügbaren medizinischen Vorräten. Durch dieses Projekt wollte ich dazu beitragen, zumindest teilweise die Anzahl der Soldatenverluste zu reduzieren."
     },
     "tubitak": {
-      "title": "Tübitak-1001 Projekt",
+      "title": "TÜBİTAK-1001 Projekt",
       "desc": "Ich habe die klinische Datenerfassung durchgeführt und eine benutzerfreundliche Webplattform entwickelt und Erfahrung in Datenbereinigung, KI-Datenvorbereitung und Full-Stack-Webanwendungsentwicklung gesammelt.",
       "descLong": "Ich habe die Aufgaben der Datenerfassung und Webplattformentwicklung übernommen. Durch die Arbeit mit echten klinischen Daten habe ich Erfahrung in Datenanalyse, Datenbereinigung und Datenvorbereitung für KI-Modelle gesammelt. Durch die Entwicklung einer benutzerfreundlichen Website habe ich die Struktur einer Webanwendung und die Integration von Frontend und Backend gelernt. Ich habe auch praktische Erfahrung mit der Datenverarbeitung in KI-Projekten und der Entwicklung voll funktionsfähiger Webanwendungen gesammelt."
     },
@@ -115,9 +114,9 @@
       "descLong": "Im Verkehrssektor führte die Fortsetzung des Fahrens mit Tachographen-Geräten anderer nach Ablauf der eigenen Gerätedauer sowohl zu Rechtsverstößen als auch zu einem erhöhten Risiko von müdigkeitsbedingten Unfällen. Um dieses Problem anzugehen, habe ich an einem integrierten System gearbeitet, das eine tachographenbasierte Gesichtserkennungsverifizierung und eine Echtzeitüberwachung von Schlaf-Wach-Zuständen durchführt. Wenn ein Fahrer sein Tachographen-Gerät in das System scannte, plante ich, dass die Fahrzeugkamera das Gesicht des Fahrers analysiert und überprüft, ob es mit dem tatsächlichen Eigentümer des Geräts übereinstimmt. Nach der Verifizierung sollte das System die Aufmerksamkeit des Fahrers während der Fahrt in Echtzeit mit KI-gestützten Bildverarbeitungstechniken überwachen und eine hörbare Warnung ausgeben, wenn Schläfrigkeit oder Unaufmerksamkeit erkannt wird. Mit diesem Projekt wollte ich sowohl den Missbrauch von Tachographen verhindern als auch die Fahrersicherheit verbessern."
     },
     "teapp": {
-      "title": "TÜRASAŞ Tee-App",
-      "desc": "Entwicklung einer Cafeteria-Bestell-App, die es Mitarbeitern ermöglicht, direkt Bestellungen aufzugeben und sie auf dem Cafeteria-Bildschirm anzuzeigen, um die Arbeitsbelastung des Personals zu reduzieren und Zeit zu sparen.",
-      "descLong": "Zuvor mussten Mitarbeiter im Unternehmen, in dem ich mein Praktikum absolvierte, das Personal in der Cafeteria anrufen, um Essen oder Getränke zu bestellen. Um diese Situation zu verbessern, habe ich eine App entwickelt, die es Mitarbeitern ermöglichte, direkt Bestellungen aufzugeben, ohne sich an Personalmitglieder zu wenden. Die App zeigte die Bestellung jedes Mitarbeiters auf dem Cafeteria-Bildschirm an, sodass das Personal die Bestellungen entsprechend vorbereiten und liefern konnte. Dieses Projekt sparte Zeit und reduzierte die Arbeitsbelastung des Cafeteria-Personals erheblich."
+      "title": "TÜRASAŞ Praktikumsprojekt",
+      "desc": "Ich habe eine Kantinenbestell-App entwickelt, mit der Mitarbeitende Bestellungen direkt aufgeben können, die dann auf dem Kantinenbildschirm angezeigt werden, um Zeit zu sparen und die Arbeitsbelastung des Personals zu reduzieren.",
+      "descLong": "In dem Unternehmen, in dem ich zuvor ein Praktikum absolviert habe, mussten die Mitarbeitenden die Kantine anrufen, um Getränke zu bestellen. Um diesen Prozess zu vereinfachen, entwickelte ich eine Anwendung, mit der die Mitarbeitenden direkt bestellen konnten, ohne das Personal kontaktieren zu müssen. Die Anwendung zeigte jede Bestellung auf dem Bildschirm der Kantine an, sodass das Personal die Bestellungen effizient zubereiten und ausliefern konnte. Dieses Projekt sparte nicht nur Zeit, sondern verringerte auch die Arbeitsbelastung des Kantinenpersonals erheblich."
     },
     "heroicity": {
       "title": "HeroiCity",
