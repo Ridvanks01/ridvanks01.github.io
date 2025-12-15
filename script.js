@@ -165,10 +165,10 @@ if (projectCards && modal) {
       let tech =
         card
           .querySelector(".project-tech")
-          ?.textContent.replace(/Technologies:|Teknolojiler:|Technologien:/, "")
+          ?.textContent.replace(/Technologies:|Teknolojiler:|Technologien:|Технологии:/, "")
           .trim() || "";
       tech = tech.replace(
-        /^(Technologies:|Teknolojiler:|Technologien:)\s*/,
+        /^(Technologies:|Teknolojiler:|Technologien:|Технологии:)\s*/,
         ""
       );
 
