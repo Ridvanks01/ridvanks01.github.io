@@ -48,7 +48,7 @@
       "title": "Softwareentwickler / Mitbegründer",
       "company": "KamiX",
       "period": "Nov 2022 - Aug 2024",
-      "description": "Zusammen mit meinen Teammitgliedern habe ich mit unserem Projekt \"Fahrerüberwachungssystem\" in der Kategorie Intelligenter Verkehr am TEKNOFEST-Wettbewerb teilgenommen. In diesem Projekt war ich für die Bildverarbeitungskomponente verantwortlich. Wir haben erfolgreich das Finale erreicht. Außerdem haben wir mit meinen Teammitgliedern unser \"Operatives UAV\"-Projekt abgeschlossen, wobei ich am autonomen Teil dieses Projekts gearbeitet habe. Mit diesem Projekt haben wir einen Geldpreis vom Minister für Industrie und Technologie im Unternehmensgründungswettbewerb gewonnen."
+      "description": "Zusammen mit meinen Teammitgliedern habe ich mit unserem Projekt \"Fahrerüberwachung\" in der Kategorie Intelligenter Verkehr am TEKNOFEST-Wettbewerb teilgenommen. In diesem Projekt war ich für die Bildverarbeitungskomponente verantwortlich. Wir haben erfolgreich das Finale erreicht. Außerdem haben wir mit meinen Teammitgliedern unser \"Operatives Drohne\"-Projekt abgeschlossen, wobei ich am autonomen Teil dieses Projekts gearbeitet habe. Mit diesem Projekt haben wir einen Geldpreis vom Minister für Industrie und Technologie im Unternehmensgründungswettbewerb gewonnen."
     },
     "oua": {
       "title": "Trainee",
@@ -104,12 +104,12 @@
       "descLong": "Ich habe die Aufgaben der Datenerfassung und Webplattformentwicklung übernommen. Durch die Arbeit mit echten klinischen Daten habe ich Erfahrung in Datenanalyse, Datenbereinigung und Datenvorbereitung für KI-Modelle gesammelt. Durch die Entwicklung einer benutzerfreundlichen Website habe ich die Struktur einer Webanwendung und die Integration von Frontend und Backend gelernt. Ich habe auch praktische Erfahrung mit der Datenverarbeitung in KI-Projekten und der Entwicklung voll funktionsfähiger Webanwendungen gesammelt."
     },
     "uav": {
-      "title": "Operatives UAV",
+      "title": "Operatives Drohne",
       "desc": "Entwicklung eines autonomen Nachschub-Drohnensystems, das Erste-Hilfe-Material und Munition basierend auf digitalen Anfragen von Soldaten liefert. Dies erhöht die Sicherheit, steigert die operative Effizienz und reduziert Zeit und Kosten.",
       "descLong": "Ich habe an einem Projekt gearbeitet, das darauf abzielt, eine autonome Nachschub-Drohne zu entwickeln, um die Erste-Hilfe- und Munitionsbedürfnisse von Soldaten auf dem Schlachtfeld schneller, sicherer und effizienter zu erfüllen. In diesem Rahmen war das Ziel, dass Soldaten digital die Art der benötigten Vorräte über ein von meinem Team entwickeltes Armband angeben und die Drohne diese Information erhält, das entsprechende Versorgungspaket auswählt und es über autonome Routenplanung liefert. Mein Ziel im Projekt war es, die operative Kontinuität zu unterstützen, die Personalsicherheit zu verbessern, indem der Bedarf an manuellem Nachschub in Hochrisikogebieten reduziert wird, und Einsparungen sowohl in Zeit als auch in Kosten zu erzielen. Wir haben für dieses Projekt einen Geldpreis vom Minister für Industrie und Technologie erhalten."
     },
     "driver": {
-      "title": "Fahrerüberwachungssystem",
+      "title": "Fahrerüberwachung",
       "desc": "Entwicklung eines integrierten Systems mit Gesichtserkennung und KI zur Überprüfung der Tachographen-Eigentümerschaft und zur Echtzeitüberwachung der Fahreraufmerksamkeit, mit dem Ziel, Missbrauch zu verhindern und die Verkehrssicherheit zu verbessern.",
       "descLong": "Im Verkehrssektor führte die Fortsetzung des Fahrens mit Tachographen-Geräten anderer nach Ablauf der eigenen Gerätedauer sowohl zu Rechtsverstößen als auch zu einem erhöhten Risiko von müdigkeitsbedingten Unfällen. Um dieses Problem anzugehen, habe ich an einem integrierten System gearbeitet, das eine tachographenbasierte Gesichtserkennungsverifizierung und eine Echtzeitüberwachung von Schlaf-Wach-Zuständen durchführt. Wenn ein Fahrer sein Tachographen-Gerät in das System scannte, plante ich, dass die Fahrzeugkamera das Gesicht des Fahrers analysiert und überprüft, ob es mit dem tatsächlichen Eigentümer des Geräts übereinstimmt. Nach der Verifizierung sollte das System die Aufmerksamkeit des Fahrers während der Fahrt in Echtzeit mit KI-gestützten Bildverarbeitungstechniken überwachen und eine hörbare Warnung ausgeben, wenn Schläfrigkeit oder Unaufmerksamkeit erkannt wird. Mit diesem Projekt wollte ich sowohl den Missbrauch von Tachographen verhindern als auch die Fahrersicherheit verbessern."
     },
