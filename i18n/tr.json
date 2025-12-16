@@ -10,10 +10,7 @@
   "home": {
     "greeting": "Merhaba, Ben Rıdvan",
     "typingTexts": {
-      "text1": "Bilgisayar Mühendisiyim",
-      "text2": "Problem Çözücüyüm",
-      "text3": "Gece Kodlayıcısıyım",
-      "text4": "Stack Overflow Gezginiyim"
+      "text1": "Bilgisayar Mühendisiyim"
     },
     "description": "Merhaba, ben Rıdvan Karasubaşı. 2025 yılında Bilgisayar Mühendisliği eğitimimi tamamladım. Güçlü analitik düşünme becerilerine, öğrenme isteğine ve işbirlikçi bir zihniyete sahip bir geliştirici olarak, yazılım alanında etkili projeler oluşturmayı hedefliyorum. Teknik becerilerimi sürekli geliştirerek, gelecekte dahil olacağım projelere yenilikçi ve sürdürülebilir katkılar sağlamaya çalışıyorum.",
     "hire": "Bana Ulaşın",
