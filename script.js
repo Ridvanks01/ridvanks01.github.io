@@ -498,10 +498,23 @@ function applyTranslations(lang) {
     // Get typing texts from translations
     const typingTexts = getNestedValue(langData, "home.typingTexts");
     if (typingTexts) {
-      const text1 = typingTexts.text1 || "Computer Engineer";
-      const text2 = typingTexts.text2 || "Problem Solver";
-      const text3 = typingTexts.text3 || "Late-night Coder";
-      const text4 = typingTexts.text4 || "Stack Overflow Explorer";
+      // Collect all non-empty texts dynamically so you can add/remove later
+      const texts = Object.values(typingTexts)
+        .filter((t) => typeof t === "string" && t.trim() !== "");
+
+      // Fallbacks per language if nothing is defined
+      let fallbackText;
+      if (lang === "tr") {
+        fallbackText = "Bilgisayar Mühendisiyim";
+      } else if (lang === "de") {
+        fallbackText = "Informatiker";
+      } else if (lang === "ru") {
+        fallbackText = "Инженер-программист";
+      } else {
+        fallbackText = "Computer Engineer";
+      }
+
+      const finalTexts = texts.length > 0 ? texts : [fallbackText];
 
       // Update the prefix text
       const textNode = Array.from(typingTextElement.childNodes).find(
@@ -516,37 +529,44 @@ function applyTranslations(lang) {
         );
       }
 
-      // Update CSS with keyframes animation for all 4 texts
-      const style = document.createElement("style");
-      style.id = "typing-text-style";
+      // Remove old style (if any)
       const existingStyle = document.getElementById("typing-text-style");
       if (existingStyle) existingStyle.remove();
 
       // Escape quotes in text for CSS
       const escapeCSS = (str) => str.replace(/"/g, '\\"');
 
+      // Build keyframes dynamically depending on number of texts
+      const n = finalTexts.length;
+      let keyframes = "@keyframes words {\n";
+      if (n === 1) {
+        // Single text: keep animation timeline running but content is constant
+        keyframes += `  0%, 100% { content: "${escapeCSS(finalTexts[0])}"; }\n`;
+      } else {
+        finalTexts.forEach((text, idx) => {
+          const start = Math.round((idx / n) * 100);
+          const end =
+            idx === n - 1
+              ? 100
+              : Math.max(start, Math.round(((idx + 1) / n) * 100) - 1);
+          keyframes += `  ${start}%, ${end}% { content: "${escapeCSS(
+            text
+          )}"; }\n`;
+        });
+      }
+      keyframes += "}";
+
+      const style = document.createElement("style");
+      style.id = "typing-text-style";
       style.textContent = `
-                .typing-text span::before {
-                    content: "${escapeCSS(text1)}";
-                    color: #28a428;
-                    animation: words 16s infinite;
-                }
-                
-                @keyframes words {
-                    0%, 25% {
-                        content: "${escapeCSS(text1)}";
-                    }
-                    26%, 50% {
-                        content: "${escapeCSS(text2)}";
-                    }
-                    51%, 75% {
-                        content: "${escapeCSS(text3)}";
-                    }
-                    76%, 100% {
-                        content: "${escapeCSS(text4)}";
-                    }
-                }
-            `;
+        .typing-text span::before {
+          content: "${escapeCSS(finalTexts[0])}";
+          color: #28a428;
+          animation: words ${n * 4}s infinite;
+        }
+
+        ${keyframes}
+      `;
       document.head.appendChild(style);
     }
   }
