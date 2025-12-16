@@ -41,43 +41,49 @@
     "jib": {
       "title": "Kalite Güvence Test Uzmanı / Freelance",
       "company": "JIB Games",
-      "period": "Ara 2022 - Şub 2023",
+      "period": "Aralık 2022 - Şubat 2023",
       "description": "Üç ay boyunca freelance QA Test Uzmanı olarak çalıştım. Test senaryoları oluşturdum ve bana atanan test durumlarını yürüttüm, sonuçları detaylı olarak raporladım."
+    },
+    "buscrash": {
+      "title": "Yazılım Geliştirici / Kurucu Ortak",
+      "company": "BUS-CRASH",
+      "period": "Ocak 2022 - Ekim 2022",
+      "description": "Takım arkadaşlarımla birlikte, \"Sürücü İzleme Sistemi\" başlıklı projemizle TEKNOFEST yarışmasının Akıllı Ulaşım kategorisinde yarıştım. Bu projede görüntü işleme bileşeninden sorumluydum. Final aşamasına kadar yükseldik."
     },
     "kamix": {
       "title": "Yazılım Geliştirici / Kurucu Ortak",
       "company": "KamiX",
-      "period": "Kas 2022 - Ağu 2024",
-      "description": "Takım arkadaşlarımla birlikte, \"Sürücü İzleme Sistemi\" başlıklı projemizle TEKNOFEST yarışmasının Akıllı Ulaşım kategorisinde yarıştım. Bu projede görüntü işleme bileşeninden sorumluydum. Final aşamasına başarıyla ilerledik. Ayrıca takım arkadaşlarımla birlikte \"Operasyonel İHA\" projemizi tamamladık. Bu projede otonom kısmı üzerinde çalıştım. Bu proje ile girişimcilik yarışmasında Sanayi ve Teknoloji Bakanı'ndan nakit ödül kazandık."
+      "period": "Kasım 2022 - Ağustos 2024",
+      "description": "Takım arkadaşlarımla birlikte \"Operasyonel İHA\" projemizi tamamladık. Bu projede otonom kısmı üzerinde çalıştım. Bu proje ile girişimcilik yarışmasında Sanayi ve Teknoloji Bakanı'ndan nakit ödül kazandık."
     },
     "oua": {
       "title": "Trainee",
       "company": "Google Oyun ve Uygulama Akademisi",
-      "period": "Kas 2023 - Ağu 2024",
+      "period": "Kasım 2023 - Ağustos 2024",
       "description": "Türkiye genelinden seçilen 2000 öğrenciden biri olarak, eğitim alma hakkına sahip oldum ve 10 ay boyunca eğitim aldım."
     },
     "turasas": {
       "title": "Yazılım Geliştirici / Stajyer",
       "company": "TÜRASAŞ",
-      "period": "Tem 2024 - Ağu 2024",
+      "period": "Temmuz 2024 - Ağustos 2024",
       "description": "TÜRASAŞ'ta 30 günlük zorunlu yaz stajımı tamamladım. Bilgisayar ağları ve arduino üzerine odaklandım."
     },
     "tubitak": {
       "title": "Yazılım Geliştirici / TÜBİTAK-1001 Bursiyeri",
       "company": "TÜBİTAK",
-      "period": "Eki 2024 - Haz 2025",
+      "period": "Ekim 2024 - Haziran 2025",
       "description": "Preeklampsinin erken tespitine yönelik yapay zekâ destekli bir proje için veri toplama ve web geliştirme üzerinde çalıştım."
     },
     "ssb": {
       "title": "Tez Araştırmacısı",
       "company": "SSB - Savunma Sanayii Başkanlığı",
-      "period": "Eki 2024 - Haz 2025",
+      "period": "Ekim 2024 - Haziran 2025",
       "description": "Savunma Sanayii Başkanlığı (SSB) ve Yükseköğretim Kurulu (YÖK) koordinasyonunda Savunma Sanayii Yapay Zeka Yetenek Kümesi (SAYZEK) tarafından yürütülen SAYZEK Akademik Tez Programı (ATP) 2024-2025'e kabul edildim ve bitirme tezimi bu programla yazdım. Bitirme projemde, savaş durumlarında yaralanan askerlere çevrimdışı ilk yardım önerileri sunan yapay zeka entegreli bir mobil uygulama oluşturdum."
     },
     "cerebrum": {
       "title": "Yazılım Geliştirici / Stajyer",
       "company": "Cerebrum Tech",
-      "period": "Tem 2025 - Eyl 2025",
+      "period": "Temmuz 2025 - Eylül 2025",
       "description": "Cerebrum Tech'te 30 günlük zorunlu yaz stajımı tamamladım. Mobil uygulama geliştirme üzerine odaklandım."
     }
   },

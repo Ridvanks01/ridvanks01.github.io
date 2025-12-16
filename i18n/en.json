@@ -41,43 +41,49 @@
     "jib": {
       "title": "Quality Assurance Tester / Freelance",
       "company": "JIB Games",
-      "period": "Dec 2022 - Feb 2023",
+      "period": "December 2022 - February 2023",
       "description": "I worked as a freelance QA Tester for three months. I created test scenarios and executed the test cases assigned to me, reporting the results in detail."
+    },
+    "buscrash": {
+      "title": "Software Developer / Co-Founder",
+      "company": "BUS-CRASH",
+      "period": "January 2022 - October 2022",
+      "description": "Together with my teammates, I competed in the Smart Transportation category of the TEKNOFEST competition with our project titled \"Driver Monitoring System.\" In this project, I was responsible for the image processing component. We successfully advanced to the final stage."
     },
     "kamix": {
       "title": "Software Developer / Co-Founder",
       "company": "KamiX",
-      "period": "Nov 2022 - Aug 2024",
-      "description": "Together with my teammates, I competed in the Smart Transportation category of the TEKNOFEST competition with our project titled \"Driver Monitoring System.\" In this project, I was responsible for the image processing component. We successfully advanced to the final stage. And also again with my teammates and I completed our \"Operational UAV\" project. I worked on the autonomous portion of this project. With this project, we won a cash prize from the Minister of Industry and Technology in the entrepreneurship competition."
+      "period": "November 2022 - August 2024",
+      "description": "Together with my teammates, I completed our \"Operational UAV\" project. I worked on the autonomous portion of this project. With this project, we won a cash prize from the Minister of Industry and Technology in the entrepreneurship competition."
     },
     "oua": {
       "title": "Trainee",
       "company": "Google Game and Application Academy",
-      "period": "Nov 2023 - Aug 2024",
+      "period": "November 2023 - August 2024",
       "description": "As one of the 2000 students selected from across Türkiye, I was entitled to receive training and received training for 10 months."
     },
     "turasas": {
       "title": "Software Developer / Intern",
       "company": "TÜRASAŞ",
-      "period": "Jul 2024 - Aug 2024",
+      "period": "July 2024 - August 2024",
       "description": "I completed my 30-day mandatory summer internship at TÜRASAŞ. I focused on computer networks and arduino."
     },
     "tubitak": {
       "title": "Software Developer / TÜBİTAK-1001 Scholar",
       "company": "TÜBİTAK",
-      "period": "Oct 2024 - Jun 2025",
+      "period": "October 2024 - June 2025",
       "description": "I worked on data collection and web development for an AI-powered project aimed at the early detection of preeclampsia."
     },
     "ssb": {
       "title": "Thesis Researcher",
       "company": "SSB - Secretariat of Defense Industries",
-      "period": "Oct 2024 - Jun 2025",
+      "period": "October 2024 - June 2025",
       "description": "I was accepted to the SAYZEK Academic Thesis Program (ATP) 2024-2025, which is carried out by the Defense Industry Artificial Intelligence Talent Cluster (SAYZEK) in coordination with the Presidency of Defense Industries (SSB) and the Council of Higher Education (YÖK), and I wrote my graduation thesis with this program. In my graduation project, I created an artificial intelligence-integrated mobile application that provides offline first aid recommendations to soldiers injured in combat situations."
     },
     "cerebrum": {
       "title": "Software Developer / Intern",
       "company": "Cerebrum Tech",
-      "period": "July 2025 - Sep 2025",
+      "period": "July 2025 - September 2025",
       "description": "I completed my 30-day mandatory summer internship at Cerebrum Tech. I focused on mobile application development."
     }
   },

@@ -41,43 +41,49 @@
     "jib": {
       "title": "Qualitätssicherungstester / Freelancer",
       "company": "JIB Games",
-      "period": "Dez 2022 - Feb 2023",
+      "period": "Dezember 2022 - Februar 2023",
       "description": "Ich habe drei Monate lang als freiberuflicher QA-Tester gearbeitet. Ich habe Testszenarien erstellt und die mir zugewiesenen Testfälle ausgeführt und die Ergebnisse detailliert dokumentiert."
+    },
+    "buscrash": {
+      "title": "Softwareentwickler / Mitbegründer",
+      "company": "BUS-CRASH",
+      "period": "Januar 2022 - Oktober 2022",
+      "description": "Mit meinen Teamkollegen nahm ich am TEKNOFEST-Wettbewerb in der Kategorie Intelligenter Transport mit unserem Projekt \"Fahrerüberwachung\" teil. Ich war für die Bildverarbeitungskomponente dieses Projekts verantwortlich. Wir haben es bis zur Finalphase geschafft."
     },
     "kamix": {
       "title": "Softwareentwickler / Mitbegründer",
       "company": "KamiX",
-      "period": "Nov 2022 - Aug 2024",
-      "description": "Zusammen mit meinen Teammitgliedern habe ich mit unserem Projekt \"Fahrerüberwachung\" in der Kategorie Intelligenter Verkehr am TEKNOFEST-Wettbewerb teilgenommen. In diesem Projekt war ich für die Bildverarbeitungskomponente verantwortlich. Wir haben erfolgreich das Finale erreicht. Außerdem haben wir mit meinen Teammitgliedern unser \"Operatives Drohne\"-Projekt abgeschlossen, wobei ich am autonomen Teil dieses Projekts gearbeitet habe. Mit diesem Projekt haben wir einen Geldpreis vom Minister für Industrie und Technologie im Unternehmensgründungswettbewerb gewonnen."
+      "period": "November 2022 - August 2024",
+      "description": "Mit meinen Teamkollegen haben wir unser Projekt \"Operative Drohne\" abgeschlossen. Ich habe an dem autonomen Teil dieses Projekts gearbeitet. Mit diesem Projekt haben wir bei einem Unternehmensgründungswettbewerb einen Geldpreis vom Minister für Industrie und Technologie gewonnen."
     },
     "oua": {
       "title": "Trainee",
       "company": "Google Spiele- und Anwendungsakademie",
-      "period": "Nov 2023 - Aug 2024",
+      "period": "November 2023 - August 2024",
       "description": "Als einer von 2000 Studenten, die aus der ganzen Türkei ausgewählt wurden, hatte ich Anspruch auf eine Ausbildung und habe diese auch 10 Monate lang absolviert."
     },
     "turasas": {
       "title": "Softwareentwickler / Praktikant",
       "company": "TÜRASAŞ",
-      "period": "Jul 2024 - Aug 2024",
+      "period": "Juli 2024 - August 2024",
       "description": "Ich habe mein 30-tägiges obligatorisches Sommersemester Praktikum bei TÜRASAŞ absolviert. Ich habe mich auf Computernetzwerke und Arduino konzentriert."
     },
     "tubitak": {
       "title": "Softwareentwickler / TÜBİTAK-1001 Stipendiat",
       "company": "TÜBİTAK",
-      "period": "Okt 2024 - Jun 2025",
+      "period": "Oktober 2024 - Juni 2025",
       "description": "Ich habe an der Datenerfassung und Webentwicklung für ein KI-gestütztes Projekt zur Früherkennung von Präeklampsie gearbeitet."
     },
     "ssb": {
       "title": "Abschlussarbeit-Stipendiat/Forscher",
       "company": "SSB - Präsidium der Verteidigungsindustrie",
-      "period": "Okt 2024 - Jun 2025",
+      "period": "Oktober 2024 - Juni 2025",
       "description": "Ich wurde in das SAYZEK Akademische Thesenprogramm (ATP) 2024-2025 aufgenommen, das vom Verteidigungsindustrie-Künstliche-Intelligenz-Talente-Cluster (SAYZEK) in Koordination mit dem Präsidium der Verteidigungsindustrie (SSB) und dem Rat für Hochschulbildung (YÖK) durchgeführt wird, und ich habe meine Abschlussarbeit mit diesem Programm geschrieben. In meinem Abschlussprojekt habe ich eine KI-integrierte mobile Anwendung erstellt, die offline Erste-Hilfe-Empfehlungen für Soldaten bietet, die in Kampfsituationen verletzt wurden."
     },
     "cerebrum": {
       "title": "Softwareentwickler / Praktikant",
       "company": "Cerebrum Tech",
-      "period": "Jul 2025 - Sep 2025",
+      "period": "Juli 2025 - September 2025",
       "description": "Ich habe mein 30-tägiges obligatorisches Sommersemester Praktikum bei Cerebrum Tech absolviert. Ich habe mich auf die Entwicklung mobiler Anwendungen konzentriert."
     }
   },
