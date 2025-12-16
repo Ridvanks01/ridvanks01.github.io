@@ -452,7 +452,7 @@ function applyTranslations(lang) {
           } else if (lang === "de") {
             element.innerHTML = "Hallo, ich bin <span>Rıdvan</span>";
           } else if (lang === "ru") {
-            element.innerHTML = "Привет, меня зовут <span>Rıdvan</span>";
+            element.innerHTML = "Привет, меня зовут <span>Ридван</span>";
           }
         } else {
           element.textContent = value;
